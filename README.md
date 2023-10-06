@@ -2,7 +2,8 @@
 ![logo](https://github.com/AREUMBAE/electric-car/assets/137476323/ac4d382d-d82c-4990-85a3-6901b06b7f6c)
 
 ## 소개
-EV-CHarging 시장의 급속한 성장에 충전사업자가 무분별한 증가로 다양한 문제 발생하고 있다는 기사를 접하여 제작하게되었습니다.
+EV-CHarging 시장의 급속한 성장에 충전사업자의 무분별한 증가로 다양한 문제가 발생하고 있다는 기사를 접하여 제작하게되었습니다.
+
 ✨이제 내손안의 실시간 충전소 EV CHARGIN로 빠른 충전을 시작해보세요!✨
 ![main](https://github.com/AREUMBAE/electric-car/assets/137476323/b1f601f8-864d-4c4e-bbd3-3875e1bac685)
 ![GIT2](https://github.com/AREUMBAE/electric-car/assets/137476323/ef315920-a133-4934-abf1-39900a62957e)
@@ -19,4 +20,8 @@ EV-CHarging 시장의 급속한 성장에 충전사업자가 무분별한 증가
 - 형상관리: Git/Github
 - 협엽 툴 : Notion
 - UI/UX 프레임워크: Bootstrap
+
+## ERD
+![erd](https://github.com/AREUMBAE/electric-car/assets/137476323/1e01433a-a3f1-45ef-89dc-a3b47f190f71)
+
 
